@@ -1,4 +1,4 @@
-const birthdayDate = new Date("july 4, 2026 19:00:00").getTime();
+const birthdayDate = new Date("july 4, 2026 18:30:00").getTime();
 
 function updateCountdown() {
 
